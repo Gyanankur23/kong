@@ -121,3 +121,8 @@ limitations under the License.
 
 [busted]: https://github.com/Olivine-Labs/busted
 [luacheck]: https://github.com/mpeterv/luacheck
+
+
+### Maintenance
+
+- Cleaned up the `proxy-cache` plugin's `handler.lua`, removing unused dependencies and legacy logic for better readability and maintainability.
